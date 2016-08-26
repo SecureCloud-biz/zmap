@@ -11,7 +11,7 @@ Copyright: public domain
 License: public-domain
 
 Files: debian/*
-Copyright: Rapid7 Labs <r7_labs@rapid7.com>
+Copyright: 2014-2015 Dariusz Dwornikowski <dariusz.dwornikowski@cs.put.poznan.pl>, 2013 Clint Adams <clint@debian.org>, 2016 Rapid7 Labs <r7_labs@rapid7.com>
 License: Apache-2.0
 
 License: Apache-2.0
